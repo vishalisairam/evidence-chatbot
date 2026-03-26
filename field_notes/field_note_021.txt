@@ -1,0 +1,19 @@
+Field Note | 2024-03-06
+Country: Tarvenia | Region: East
+District: D009 (D-009)
+Partner: EcoTrust Consortium
+Intervention: Soil Conservation Program (Basic) [I10]
+
+Summary: Partner check-in completed. Severity rating (1–5): 4.
+
+Context note: Political tensions in the region have slowed government approvals across sectors.
+
+Key observations:
+- quality inspection revealed cracks in recently poured concrete foundations. Estimated schedule impact: ~8 weeks.
+- Budget note: indicative cost pressure of ~15.0% versus plan (not yet approved).
+
+Mitigation actions proposed:
+- Increase QA/QC inspections; enforce hold points; replace non-performing subcontractors.
+
+Next steps:
+- Submit updated risk register to the programme management unit.

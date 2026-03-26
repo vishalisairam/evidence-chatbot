@@ -1,0 +1,17 @@
+Field Note | 2024-10-12
+Country: Tarvenia | Region: South
+District: D044 (D-044)
+Partner: WaterFront Implementers
+Intervention: Emergency Preparedness Training (Standard) [I15]
+
+Summary: Partner check-in completed. Severity rating (1–5): 5.
+
+Key observations:
+- outcome indicators lack a clear measurement methodology in the M&E plan. Estimated schedule impact: ~7 weeks.
+- Budget note: indicative cost pressure of ~19.1% versus plan (not yet approved).
+
+Mitigation actions proposed:
+- Revise M&E framework; add automated data collection via mobile app.
+
+Next steps:
+- Escalate key bottlenecks to the national steering committee.

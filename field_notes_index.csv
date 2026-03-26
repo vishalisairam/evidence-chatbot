@@ -1,0 +1,91 @@
+file,district_id,district_code,date,partner,intervention_id,primary_risk,secondary_risk,severity,trend_cue_included
+field_note_001.txt,D010,D-010,2023-03-07,WaterFront Implementers,I03,partner_capacity,permitting_regulatory,1,False
+field_note_002.txt,D085,D-085,2023-09-27,AquaShield Foundation,I10,extreme_event_disruption,,4,False
+field_note_003.txt,D096,D-096,2023-04-25,NovaBridge Partners,I06,supply_chain,,5,False
+field_note_004.txt,D115,D-115,2024-11-06,AquaShield Foundation,I03,partner_capacity,,4,True
+field_note_005.txt,D093,D-093,2023-01-22,SolarRise Initiative,I12,supply_chain,,4,True
+field_note_006.txt,D031,D-031,2024-07-06,AquaShield Foundation,I02,partner_capacity,,3,False
+field_note_007.txt,D094,D-094,2023-02-25,Horizon Resilience Group,I04,procurement_delay,,1,False
+field_note_008.txt,D088,D-088,2024-04-18,AquaShield Foundation,I08,permitting_regulatory,,2,True
+field_note_009.txt,D097,D-097,2023-06-18,Horizon Resilience Group,I06,governance_fraud,,4,False
+field_note_010.txt,D110,D-110,2023-11-18,EcoTrust Consortium,I16,permitting_regulatory,financing_disbursement,2,False
+field_note_011.txt,D048,D-048,2023-03-25,SafeGround Co-op,I03,procurement_delay,permitting_regulatory,2,True
+field_note_012.txt,D080,D-080,2023-01-10,CivicWorks Alliance,I13,community_buy_in,,2,False
+field_note_013.txt,D089,D-089,2024-07-10,CivicWorks Alliance,I05,partner_capacity,,3,True
+field_note_014.txt,D033,D-033,2023-07-28,CivicWorks Alliance,I04,supply_chain,community_buy_in,1,False
+field_note_015.txt,D017,D-017,2024-07-18,TerraBuild Collective,I01,extreme_event_disruption,,3,False
+field_note_016.txt,D063,D-063,2023-02-10,TerraBuild Collective,I12,supply_chain,extreme_event_disruption,5,False
+field_note_017.txt,D083,D-083,2024-11-16,GreenPath Solutions,I06,financing_disbursement,procurement_delay,4,False
+field_note_018.txt,D098,D-098,2024-11-06,Horizon Resilience Group,I15,community_buy_in,,3,True
+field_note_019.txt,D052,D-052,2023-09-29,SolarRise Initiative,I18,financing_disbursement,contractor_quality,3,False
+field_note_020.txt,D069,D-069,2024-11-17,TerraBuild Collective,I14,supply_chain,,1,False
+field_note_021.txt,D009,D-009,2024-03-06,EcoTrust Consortium,I10,contractor_quality,,4,True
+field_note_022.txt,D062,D-062,2024-11-22,CivicWorks Alliance,I07,m_e_data_gaps,,4,False
+field_note_023.txt,D099,D-099,2023-03-16,Horizon Resilience Group,I10,permitting_regulatory,financing_disbursement,2,False
+field_note_024.txt,D109,D-109,2024-07-24,AquaShield Foundation,I14,extreme_event_disruption,,2,False
+field_note_025.txt,D008,D-008,2024-04-05,SafeGround Co-op,I17,supply_chain,,4,False
+field_note_026.txt,D002,D-002,2023-06-04,WaterFront Implementers,I03,permitting_regulatory,procurement_delay,3,True
+field_note_027.txt,D079,D-079,2024-12-13,EcoTrust Consortium,I15,financing_disbursement,governance_fraud,4,False
+field_note_028.txt,D071,D-071,2024-02-03,EcoTrust Consortium,I18,permitting_regulatory,,5,False
+field_note_029.txt,D027,D-027,2024-03-14,SafeGround Co-op,I18,procurement_delay,,1,True
+field_note_030.txt,D081,D-081,2024-03-07,Horizon Resilience Group,I15,contractor_quality,,3,False
+field_note_031.txt,D022,D-022,2024-04-29,AquaShield Foundation,I02,permitting_regulatory,financing_disbursement,1,True
+field_note_032.txt,D053,D-053,2024-01-20,SafeGround Co-op,I04,community_buy_in,financing_disbursement,2,False
+field_note_033.txt,D042,D-042,2023-01-13,TerraBuild Collective,I12,procurement_delay,,5,False
+field_note_034.txt,D051,D-051,2024-04-21,SolarRise Initiative,I06,community_buy_in,,5,False
+field_note_035.txt,D067,D-067,2024-05-21,CivicWorks Alliance,I15,governance_fraud,,2,True
+field_note_036.txt,D040,D-040,2024-02-21,SafeGround Co-op,I09,financing_disbursement,,5,True
+field_note_037.txt,D068,D-068,2024-06-27,CivicWorks Alliance,I08,permitting_regulatory,,4,False
+field_note_038.txt,D035,D-035,2024-12-07,CivicWorks Alliance,I09,partner_capacity,,2,False
+field_note_039.txt,D061,D-061,2023-02-16,Horizon Resilience Group,I10,contractor_quality,financing_disbursement,2,True
+field_note_040.txt,D039,D-039,2024-05-04,CivicWorks Alliance,I16,governance_fraud,,4,True
+field_note_041.txt,D060,D-060,2023-08-20,GreenPath Solutions,I10,permitting_regulatory,governance_fraud,1,False
+field_note_042.txt,D056,D-056,2023-03-18,AquaShield Foundation,I07,community_buy_in,,2,True
+field_note_043.txt,D077,D-077,2024-11-08,CivicWorks Alliance,I15,permitting_regulatory,,1,False
+field_note_044.txt,D023,D-023,2024-03-25,AquaShield Foundation,I02,community_buy_in,,2,False
+field_note_045.txt,D064,D-064,2024-11-21,AquaShield Foundation,I02,contractor_quality,,4,True
+field_note_046.txt,D066,D-066,2023-04-04,EcoTrust Consortium,I15,extreme_event_disruption,,3,False
+field_note_047.txt,D024,D-024,2023-11-19,SolarRise Initiative,I16,procurement_delay,,3,False
+field_note_048.txt,D041,D-041,2023-02-22,TerraBuild Collective,I07,contractor_quality,,5,False
+field_note_049.txt,D100,D-100,2023-04-27,TerraBuild Collective,I08,community_buy_in,,2,True
+field_note_050.txt,D113,D-113,2024-09-05,CivicWorks Alliance,I14,governance_fraud,m_e_data_gaps,4,True
+field_note_051.txt,D025,D-025,2024-07-05,CivicWorks Alliance,I10,m_e_data_gaps,,5,True
+field_note_052.txt,D007,D-007,2024-01-31,Horizon Resilience Group,I13,procurement_delay,supply_chain,2,False
+field_note_053.txt,D057,D-057,2023-06-08,WaterFront Implementers,I04,governance_fraud,extreme_event_disruption,5,False
+field_note_054.txt,D091,D-091,2024-03-20,WaterFront Implementers,I18,m_e_data_gaps,community_buy_in,1,False
+field_note_055.txt,D019,D-019,2024-02-26,TerraBuild Collective,I11,community_buy_in,,1,True
+field_note_056.txt,D050,D-050,2024-11-13,SolarRise Initiative,I08,m_e_data_gaps,governance_fraud,4,False
+field_note_057.txt,D119,D-119,2024-05-09,CivicWorks Alliance,I14,governance_fraud,,3,False
+field_note_058.txt,D043,D-043,2024-09-12,SolarRise Initiative,I09,m_e_data_gaps,,1,False
+field_note_059.txt,D003,D-003,2024-03-27,Horizon Resilience Group,I09,partner_capacity,,2,True
+field_note_060.txt,D104,D-104,2024-05-28,SolarRise Initiative,I06,extreme_event_disruption,,2,False
+field_note_061.txt,D073,D-073,2024-07-24,WaterFront Implementers,I03,permitting_regulatory,,2,False
+field_note_062.txt,D074,D-074,2023-08-28,NovaBridge Partners,I09,procurement_delay,,5,True
+field_note_063.txt,D037,D-037,2023-04-10,CivicWorks Alliance,I14,extreme_event_disruption,financing_disbursement,1,False
+field_note_064.txt,D047,D-047,2023-08-30,SafeGround Co-op,I14,financing_disbursement,,3,False
+field_note_065.txt,D038,D-038,2023-01-22,Horizon Resilience Group,I04,partner_capacity,,4,False
+field_note_066.txt,D011,D-011,2023-10-11,Horizon Resilience Group,I07,contractor_quality,,2,False
+field_note_067.txt,D075,D-075,2024-03-07,TerraBuild Collective,I12,m_e_data_gaps,,2,True
+field_note_068.txt,D016,D-016,2024-11-05,SafeGround Co-op,I04,supply_chain,financing_disbursement,4,False
+field_note_069.txt,D059,D-059,2023-05-10,AquaShield Foundation,I16,partner_capacity,,4,True
+field_note_070.txt,D006,D-006,2023-08-09,EcoTrust Consortium,I14,partner_capacity,,1,False
+field_note_071.txt,D034,D-034,2024-12-04,SolarRise Initiative,I04,procurement_delay,,3,False
+field_note_072.txt,D045,D-045,2024-02-25,GreenPath Solutions,I18,m_e_data_gaps,,1,False
+field_note_073.txt,D046,D-046,2023-04-21,CivicWorks Alliance,I12,m_e_data_gaps,,1,False
+field_note_074.txt,D013,D-013,2023-07-04,EcoTrust Consortium,I18,m_e_data_gaps,,1,True
+field_note_075.txt,D049,D-049,2024-06-27,GreenPath Solutions,I13,extreme_event_disruption,,1,True
+field_note_076.txt,D102,D-102,2024-11-08,NovaBridge Partners,I03,extreme_event_disruption,financing_disbursement,1,True
+field_note_077.txt,D111,D-111,2024-09-05,AquaShield Foundation,I10,governance_fraud,,5,True
+field_note_078.txt,D120,D-120,2024-12-21,NovaBridge Partners,I04,governance_fraud,,1,False
+field_note_079.txt,D101,D-101,2024-03-03,TerraBuild Collective,I15,contractor_quality,,1,False
+field_note_080.txt,D020,D-020,2023-11-14,AquaShield Foundation,I14,permitting_regulatory,,1,True
+field_note_081.txt,D086,D-086,2023-08-30,EcoTrust Consortium,I07,contractor_quality,,3,False
+field_note_082.txt,D044,D-044,2024-10-12,WaterFront Implementers,I15,m_e_data_gaps,,5,False
+field_note_083.txt,D105,D-105,2024-04-17,WaterFront Implementers,I15,community_buy_in,,3,True
+field_note_084.txt,D021,D-021,2023-02-12,SafeGround Co-op,I17,governance_fraud,,4,False
+field_note_085.txt,D001,D-001,2023-03-28,GreenPath Solutions,I02,partner_capacity,,4,False
+field_note_086.txt,D116,D-116,2024-11-26,EcoTrust Consortium,I06,contractor_quality,,3,False
+field_note_087.txt,D106,D-106,2023-06-03,EcoTrust Consortium,I13,community_buy_in,,3,False
+field_note_088.txt,D058,D-058,2024-11-17,GreenPath Solutions,I03,supply_chain,,3,False
+field_note_089.txt,D114,D-114,2023-05-21,NovaBridge Partners,I10,permitting_regulatory,,2,True
+field_note_090.txt,D054,D-054,2024-01-09,GreenPath Solutions,I13,extreme_event_disruption,permitting_regulatory,2,True

@@ -1,0 +1,17 @@
+Field Note | 2024-02-25
+Country: Tarvenia | Region: East
+District: D045 (D-045)
+Partner: GreenPath Solutions
+Intervention: Community Resilience Hub (Basic) [I18]
+
+Summary: Partner check-in completed. Severity rating (1–5): 1.
+
+Key observations:
+- GPS coordinates for completed installations have not been recorded. Estimated schedule impact: ~15 weeks.
+- Budget note: indicative cost pressure of ~14.7% versus plan (not yet approved).
+
+Mitigation actions proposed:
+- Revise M&E framework; add automated data collection via mobile app.
+
+Next steps:
+- Confirm revised workplan and milestones in writing.

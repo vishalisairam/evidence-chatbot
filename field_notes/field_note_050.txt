@@ -1,0 +1,21 @@
+Field Note | 2024-09-05
+Country: Lisonda | Region: Central
+District: D113 (D-113)
+Partner: CivicWorks Alliance
+Intervention: Riverbank Stabilization (Basic) [I14]
+
+Summary: Partner check-in completed. Severity rating (1–5): 4.
+
+Context note: Regional elections have diverted government attention from development project oversight.
+
+Key observations:
+- fuel consumption logs do not align with equipment usage records. Estimated schedule impact: ~13 weeks.
+- baseline survey data is incomplete for two of the target communities.
+- Budget note: indicative cost pressure of ~19.0% versus plan (not yet approved).
+
+Mitigation actions proposed:
+- Commission independent audit; freeze payments until discrepancies are explained.
+- Revise M&E framework; add automated data collection via mobile app.
+
+Next steps:
+- Conduct follow-up site visit within 30 days.
