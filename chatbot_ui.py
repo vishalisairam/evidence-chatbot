@@ -291,8 +291,7 @@ def ask_route():
 # -- 6. Start ------------------------------------------------------
 
 if __name__ == "__main__":
-    url = "http://127.0.0.1:5000"
-    print(f"\n  Chatbot running at: {url}")
+    port = int(os.environ.get("PORT", 5000))
+    print(f"\n  Chatbot running at: http://127.0.0.1:{port}")
     print(f"  Press Ctrl+C to stop.\n")
-    threading.Timer(1.5, lambda: webbrowser.open(url)).start()
-    app.run(debug=False, port=5000)
+    app.run(host="0.0.0.0", port=port, debug=False)
